@@ -3,7 +3,7 @@ module.exports = {
 	/**
 	 * Instructions on how to get this: https://redd.it/40zgse
 	 */
-	yourID: "",
+	yourID: "678250115701669891",
 
 	setupCMD: "!createrolemessage",
 
@@ -25,12 +25,12 @@ module.exports = {
 	 */
 	embedFooter: "Role Reactions",
 	
-	roles: ["Hacker", "Artist", "Public Relations", "Intern"],
+	roles: ["Развлечения"],
 
 	/**
 	 * For custom emojis, provide the name of the emoji
 	 */
-	reactions: ["💻", "🖌", "😃", "🆕"],
+	reactions: ["🎉"],
 
 	/**
 	 * Set to "true" if you want all roles to be in a single embed
@@ -63,5 +63,5 @@ module.exports = {
 	 * 
 	 * https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 	 */
-	botToken: ""
+	botToken: "Njc4MjUwMTE1NzAxNjY5ODkx.XsVdew.3qYogJlEal0anuBCHjpFTSsUu14"
 };
