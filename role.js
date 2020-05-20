@@ -1,6 +1,6 @@
 // Import constructors, configuration and login the client
 const { Client, RichEmbed, Emoji, MessageReaction } = require('discord.js');
-const CONFIG = require('./config');
+const CONFIG = require('./config.example.js');
 
 const client = new Client({ disableEveryone: true });
 if (CONFIG.botToken === '')
